@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>gitlab on kde and vic</title>
+    <link>http://victoriaemily.github.io/KDE/tags/gitlab/</link>
+    <description>Recent content in gitlab on kde and vic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 06 Jan 2023 23:35:01 -0600</lastBuildDate><atom:link href="http://victoriaemily.github.io/KDE/tags/gitlab/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo &amp; Setting Goals</title>
+      <link>http://victoriaemily.github.io/KDE/posts/hugo--setting-goals/</link>
+      <pubDate>Fri, 06 Jan 2023 23:35:01 -0600</pubDate>
+      
+      <guid>http://victoriaemily.github.io/KDE/posts/hugo--setting-goals/</guid>
+      <description>Setting Up &amp;amp; Learning Hugo KDE uses Hugo to template a lot of their subdomains, so I figured it would be relevant to learn to help improve accessability &amp;amp; overall function across their different sites. I had only used CSS &amp;amp; a little bit of React to help format my sites before this, so I tried my hand at using Hugo for templating this site.
+I (of course) downloaded Hugo, set up a theme, and went on to set some features that the demo site for PaperMod had.</description>
+    </item>
+    
+  </channel>
+</rss>

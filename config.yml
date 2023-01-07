@@ -3,6 +3,8 @@ languageCode: en-us
 title: kde and vic
 theme: hugo-PaperMod
 
+publishDir: "docs"
+
 params:
   profileMode:
     enabled: true
