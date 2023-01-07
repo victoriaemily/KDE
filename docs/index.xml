@@ -8,13 +8,13 @@
     <language>en-us</language>
     <lastBuildDate>Fri, 06 Jan 2023 23:35:01 -0600</lastBuildDate><atom:link href="http://victoriaemily.github.io/KDE/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hugo &amp; Setting Goals</title>
+      <title>Pre Season of KDE - Hugo &amp; Setting Goals</title>
       <link>http://victoriaemily.github.io/KDE/posts/hugo--setting-goals/</link>
       <pubDate>Fri, 06 Jan 2023 23:35:01 -0600</pubDate>
       
       <guid>http://victoriaemily.github.io/KDE/posts/hugo--setting-goals/</guid>
-      <description>Setting Up &amp;amp; Learning Hugo KDE uses Hugo to template a lot of their subdomains, so I figured it would be relevant to learn to help improve accessability &amp;amp; overall function across their different sites. I had only used CSS &amp;amp; a little bit of React to help format my sites before this, so I tried my hand at using Hugo for templating this site.
-I (of course) downloaded Hugo, set up a theme, and went on to set some features that the demo site for PaperMod had.</description>
+      <description>I had never heard of KDE prior to learning about Season of KDE, but I had actually used one of their developed softwares before even knowing it was associated with KDE - Krita. I started this blog in interest of Season of KDE, but I hope to start to contribute to OSS like KDE even outside of SoK. :)
+Setting Up &amp;amp; Learning Hugo KDE uses Hugo to template a lot of their subdomains, so I figured it would be relevant to learn to help improve accessability &amp;amp; overall function across their different sites.</description>
     </item>
     
     <item>
