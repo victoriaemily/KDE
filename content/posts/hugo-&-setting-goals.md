@@ -5,8 +5,7 @@ draft: false
 tags: 
 - test
 - hugo
-- database
-- html/css
+- gitlab
 ---
 
 # Setting Up & Learning Hugo
@@ -17,15 +16,14 @@ I (of course) downloaded Hugo, set up a theme, and went on to set some features 
 
 So, this led to the site you see right now!
 
-I also set up Gitlab & SSH keys :)
+I also set up Gitlab & SSH keys and saw this neat easter egg on invent.kde.org:
 ![Image from http://195.201.182.103/ saying "I serve Code!"](/static/img/easteregg.png)
 
 I've forked the main Krita.org website on Gitlab & cloned it into my local machine.
 
-
-... well something happened and now its denying my SSH pairing D:
-
-Goals for the week:
+# Goals for the Week:
  - get comfortable with Gitlab (contribute small changes through the fork i made)
  - after that, help improve site accessability
  - learn to utilize custom css in Hugo
+
+Ultimately I really look forward to working & getting to know Paul and Aniqa and learning a lot from them :) 
