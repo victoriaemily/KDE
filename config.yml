@@ -1,4 +1,51 @@
 baseURL: http://example.org/
 languageCode: en-us
-title: My New Hugo Site
+title: kde and vic
 theme: hugo-PaperMod
+
+params:
+  profileMode:
+    enabled: true
+    title: "hi there!" # optional default will be site title
+    subtitle: "I'm Victoria, and this site will document what I've learned/done with KDE :)"
+    imageUrl: "./img/me.png" # optional
+    imageTitle: "cartoon girl with wavy hair" # optional
+    imageWidth: 120 # custom size
+    imageHeight: 120 # custom size
+    buttons:
+        - name: KDE Gitlab
+          url: "https://invent.kde.org/"
+        - name: Posts
+          url: "/archives/"
+        - name: Github
+          url: "https://github.com/"
+        
+
+  ShowBreadCrumbs: true
+  comments: true
+  ShowShareButtons: true
+  enableEmoji: true
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # is necessary
+
+taxonomies:
+  tag: "tags"
+
+menu:
+    main:
+        - identifier: tags
+          name: tags
+          url: /tags/
+          weight: 20
+        - identifier: example
+          name: example.org
+          url: https://example.org
+          weight: 30
+        - identifier: archives
+          name: archives
+          url: /archives/
+          weight: 30
