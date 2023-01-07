@@ -30,4 +30,3 @@ I've forked the main Krita.org website on Gitlab & cloned it into my local machi
  - learn to utilize custom CSS with Hugo
  - ultimately, view site source codes and contribute a potential change
 
-
