@@ -17,7 +17,7 @@ I (of course) downloaded Hugo, set up a theme, and went on to set some features 
 So, this led to the site you see right now!
 
 I also set up Gitlab & SSH keys and saw this neat easter egg on invent.kde.org:
-![Image from http://195.201.182.103/ saying "I serve Code!"](/static/img/easteregg.png)
+![Image from http://195.201.182.103/ saying "I serve Code!"](./img/easteregg.jpg)
 
 I've forked the main Krita.org website on Gitlab & cloned it into my local machine.
 
@@ -26,4 +26,3 @@ I've forked the main Krita.org website on Gitlab & cloned it into my local machi
  - after that, help improve site accessability
  - learn to utilize custom css in Hugo
 
-Ultimately I really look forward to working & getting to know Paul and Aniqa and learning a lot from them :) 

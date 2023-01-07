@@ -16,11 +16,11 @@ params:
     imageHeight: 120 # custom size
     buttons:
         - name: KDE Gitlab
-          url: "https://invent.kde.org/"
+          url: "https://invent.kde.org/victo"
         - name: Posts
-          url: "/archives/"
+          url: "./archives/"
         - name: Github
-          url: "https://github.com/"
+          url: "https://github.com/victoriaemily"
         
 
   ShowBreadCrumbs: true
