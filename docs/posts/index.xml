@@ -6,7 +6,17 @@
     <description>Recent content in Posts on kde and vic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Jan 2023 23:35:01 -0600</lastBuildDate><atom:link href="http://victoriaemily.github.io/KDE/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 21 Jan 2023 16:37:30 -0600</lastBuildDate><atom:link href="http://victoriaemily.github.io/KDE/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Week1</title>
+      <link>http://victoriaemily.github.io/KDE/posts/week1/</link>
+      <pubDate>Sat, 21 Jan 2023 16:37:30 -0600</pubDate>
+      
+      <guid>http://victoriaemily.github.io/KDE/posts/week1/</guid>
+      <description>Start of SoK Hello! Today (in UTC) marks the official start of Season of KDE! In about two weeks or so, I&amp;rsquo;ll update the site on what I&amp;rsquo;ve learned, but recently, I&amp;rsquo;ve been reading up on web accessibility guidelines according to those latest published by WCAG.
+WCAG During my research, I noted the following that could be applicable to KDE&amp;rsquo;s main sites, with the following in quotes either paraphrased or taken directly from WCAG 2.</description>
+    </item>
+    
     <item>
       <title>Pre Season of KDE - Hugo &amp; Setting Goals</title>
       <link>http://victoriaemily.github.io/KDE/posts/hugo--setting-goals/</link>

@@ -2,16 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://victoriaemily.github.io/KDE/</loc>
+    <lastmod>2023-01-21T16:37:30-06:00</lastmod>
+  </url><url>
+    <loc>http://victoriaemily.github.io/KDE/posts/</loc>
+    <lastmod>2023-01-21T16:37:30-06:00</lastmod>
+  </url><url>
+    <loc>http://victoriaemily.github.io/KDE/posts/week1/</loc>
+    <lastmod>2023-01-21T16:37:30-06:00</lastmod>
+  </url><url>
     <loc>http://victoriaemily.github.io/KDE/tags/gitlab/</loc>
     <lastmod>2023-01-06T23:35:01-06:00</lastmod>
   </url><url>
     <loc>http://victoriaemily.github.io/KDE/tags/hugo/</loc>
-    <lastmod>2023-01-06T23:35:01-06:00</lastmod>
-  </url><url>
-    <loc>http://victoriaemily.github.io/KDE/</loc>
-    <lastmod>2023-01-06T23:35:01-06:00</lastmod>
-  </url><url>
-    <loc>http://victoriaemily.github.io/KDE/posts/</loc>
     <lastmod>2023-01-06T23:35:01-06:00</lastmod>
   </url><url>
     <loc>http://victoriaemily.github.io/KDE/posts/hugo--setting-goals/</loc>
