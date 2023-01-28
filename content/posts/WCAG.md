@@ -80,7 +80,7 @@ o	Essential – function for the down-event is REQUIRED
 *	Bypass blocks of text on web pages  
 
 ### An annotated PDF of the WCAG 2.1 guidelines can be found below  
-A-level guidelines are hihglighted in YELLOW while interesting lines I read are highlighted in BLUE.  
+A-level guidelines are highlighted in YELLOW while interesting lines I read are highlighted in BLUE.  
 [84-pg PDF of Annotated WCAG Guidelines](http://victoriaemily.github.io/KDE/img/WCAG_Guidelines.pdf)  
 [Word Version of Above Blog Post](http://victoriaemily.github.io/KDE/img/KDE.docx)  
 
