@@ -4,21 +4,21 @@ date: 2023-01-28T00:26:20-06:00
 draft: false
 ---
 
-### Reading the WCAG & Taking More In-Depth Notes \
+### Reading the WCAG & Taking More In-Depth Notes 
 
 ### Page 13: Controls, Input 
 If non-text content is a control or accepts user input, then it must have a name to describe its purpose (i.e., sign up for mailing lists, etc) – refer to success criterion 4.1.2 \
-Decoration, Formatting, Invisible: NON text content that’s pure decoration should be formatted so that it can be ignored by assistive technology (likely, do a comb through of existing KDE sites with text-to-speech readers) \
+Decoration, Formatting, Invisible: NON text content that’s pure decoration should be formatted so that it can be ignored by assistive technology (likely, do a comb through of existing KDE sites with text-to-speech readers) 
 ### Page 14 
-Prerecorded Media – an alternative for time-based media is appropriate for both audio and video (XOR) \
+Prerecorded Media – an alternative for time-based media is appropriate for both audio and video (XOR) 
 ### Page 16 
-Content does not restrict view to a solitary orientation – check landscape view on mobile, portrait view as well \
+Content does not restrict view to a solitary orientation – check landscape view on mobile, portrait view as well 
 ### Page 17 
-Distinguishable – make it easier or users to distinguish content from background \
+Distinguishable – make it easier or users to distinguish content from background 
 ### Page 18 
 Visual presentation of text and images of text have a contrast ratio of at LEAST 4.5:1 (ties into the motto of distinguishable) \
 Large-scale must be 3:1 \
-Logo/brand name text does NOT have a requirement \
+Logo/brand name text does NOT have a requirement 
 Resize text: text must be able to be resized up to 200 percent without assistive technology  
 ### Page 20  
 Large Blocks of Text – foreground and background color should be able to be selected by the user  
