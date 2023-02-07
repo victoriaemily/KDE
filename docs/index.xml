@@ -6,14 +6,30 @@
     <description>Recent content on kde and vic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 28 Jan 2023 00:26:20 -0600</lastBuildDate><atom:link href="http://victoriaemily.github.io/KDE/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 04 Feb 2023 19:25:58 -0600</lastBuildDate><atom:link href="http://victoriaemily.github.io/KDE/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Week2</title>
+      <link>http://victoriaemily.github.io/KDE/posts/week2/</link>
+      <pubDate>Sat, 04 Feb 2023 19:25:58 -0600</pubDate>
+      
+      <guid>http://victoriaemily.github.io/KDE/posts/week2/</guid>
+      <description>Combing through KDE&amp;rsquo;s sites to check for compliance with WCAG A-level KDE&amp;rsquo;s Main Site Assistive Reader No issues.
+Alternative Text on Images With KDE Eco:
+&amp;lt;img class=&amp;#34;img-fluid&amp;#34; src=&amp;#34;https://kde.org/images/eco_greenerywithlogo_box_500.jpg&amp;#34; alt=&amp;#34;&amp;#34; width=&amp;#34;500&amp;#34; loading=&amp;#34;lazy&amp;#34;&amp;gt; ... &amp;lt;img alt=&amp;#34;BMUV&amp;#34; src=&amp;#34;https://eco.kde.org//assets/img/bmuv.webp&amp;#34;&amp;gt; BMUV is not very descriptive.
+KDE Plasma Assistive Reader No issues.
+Alternative Text on Images All images had alternative text.
+ETC No other issues found.
+Krita Assistive Reader No issues.
+Alternative Text on Images &amp;lt;img class=&amp;#34;lazy loaded&amp;#34; src=&amp;#34;https://krita.</description>
+    </item>
+    
     <item>
       <title>WCAG</title>
       <link>http://victoriaemily.github.io/KDE/posts/wcag/</link>
       <pubDate>Sat, 28 Jan 2023 00:26:20 -0600</pubDate>
       
       <guid>http://victoriaemily.github.io/KDE/posts/wcag/</guid>
-      <description>Reading the WCAG &amp;amp; Taking More In-Depth Notes \ Page 13: Controls, Input If non-text content is a control or accepts user input, then it must have a name to describe its purpose (i.e., sign up for mailing lists, etc) – refer to success criterion 4.1.2 Decoration, Formatting, Invisible: NON text content that’s pure decoration should be formatted so that it can be ignored by assistive technology (likely, do a comb through of existing KDE sites with text-to-speech readers) \</description>
+      <description>Reading the WCAG &amp;amp; Taking More In-Depth Notes Page 13: Controls, Input If non-text content is a control or accepts user input, then it must have a name to describe its purpose (i.e., sign up for mailing lists, etc) – refer to success criterion 4.1.2 Decoration, Formatting, Invisible: NON text content that’s pure decoration should be formatted so that it can be ignored by assistive technology (likely, do a comb through of existing KDE sites with text-to-speech readers)</description>
     </item>
     
     <item>
